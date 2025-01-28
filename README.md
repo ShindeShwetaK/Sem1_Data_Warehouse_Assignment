@@ -22,10 +22,10 @@
 ## Assignment 8
 - Introduction to dbt
 
-## Assignment 10
+## Assignment 9
 - VESPA
 
-## Assignment 11
+## Assignment 10
 - PySpark
 
 
